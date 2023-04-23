@@ -1,0 +1,10 @@
+joblib
+nltk
+numpy
+tensorflow
+pickle
+PIL
+sklearn
+keras
+flask
+secrets
